@@ -1,6 +1,6 @@
 # Transfer Learning with Pre-trained CNNs
 
-**MLNN Tutorial — University of Hertfordshire — 2025**
+**MLNN Tutorial — University of Hertfordshire **
 
 Reusing 1.2 Million Images Without Downloading Them.
 
