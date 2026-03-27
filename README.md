@@ -1,6 +1,6 @@
 # Transfer Learning with Pre-trained CNNs
 
-**MLNN Tutorial — University of Hertfordshire **
+**MLNN Tutorial University of Hertfordshire **
 
 Reusing 1.2 Million Images Without Downloading Them.
 
@@ -16,7 +16,7 @@ This repository contains a complete tutorial on transfer learning using ImageNet
 - Three transfer learning strategies: feature extraction, partial fine-tuning, full fine-tuning
 - Experiments across dataset sizes (50–5,000 images) and four architectures
 - Discriminative learning rates (Howard & Ruder, 2018)
-- Negative transfer — when it fails and how to diagnose it
+- Negative transfer when it fails and how to diagnose it
 - Practical fine-tuning checklist
 
 ---
