@@ -8,11 +8,11 @@ Reusing 1.2 Million Images Without Downloading Them.
 
 ## What This Tutorial Covers
 
-This repository contains a complete tutorial on transfer learning using ImageNet pre-trained CNNs applied to CIFAR-10. It demonstrates that a ResNet-50 fine-tuned on just 500 images achieves higher accuracy than the same network trained from scratch on 5,000 images — ten times less data for better performance.
+This repository contains a complete tutorial on transfer learning using ImageNet pre-trained CNNs applied to CIFAR-10. It demonstrates that a ResNet-50 fine-tuned on just 500 images achieves higher accuracy than the same network trained from scratch on 5,000 images  ten times less data for better performance.
 
 **Topics covered:**
 
-- Why transfer learning works — filter universality and Centred Kernel Alignment (CKA)
+- Why transfer learning works  filter universality and Centred Kernel Alignment (CKA)
 - Three transfer learning strategies: feature extraction, partial fine-tuning, full fine-tuning
 - Experiments across dataset sizes (50–5,000 images) and four architectures
 - Discriminative learning rates (Howard & Ruder, 2018)
@@ -108,10 +108,7 @@ All figures in this tutorial are designed to be accessible:
 
 ## Licence
 
-MIT — see [LICENSE](LICENSE). You are free to use, modify, and distribute this code with attribution.
+MIT  see [LICENSE](LICENSE). You are free to use, modify, and distribute this code with attribution.
 
 ---
 
-## Author
-
-University of Hertfordshire — MLNN Assignment — 2025
